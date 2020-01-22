@@ -1,0 +1,9 @@
+C:\Users\Laptop\Desktop\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\OpenWeatherMapAPI.exe.config
+C:\Users\Laptop\Desktop\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\OpenWeatherMapAPI.exe
+C:\Users\Laptop\Desktop\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\OpenWeatherMapAPI.pdb
+C:\Users\Laptop\Desktop\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Laptop\Desktop\OpenWeatherMapAPI\OpenWeatherMapAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Laptop\Desktop\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\OpenWeatherMapAPI.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\OpenWeatherMapAPI.csproj.CopyComplete
+C:\Users\Laptop\Desktop\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\OpenWeatherMapAPI.exe
+C:\Users\Laptop\Desktop\OpenWeatherMapAPI\OpenWeatherMapAPI\obj\Debug\OpenWeatherMapAPI.pdb
